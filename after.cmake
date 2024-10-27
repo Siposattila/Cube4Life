@@ -1,0 +1,5 @@
+find_package(Vulkan REQUIRED)
+find_package(glfw3 REQUIRED)
+
+# Set CMAKE_EXPORT_COMPILE_COMMANDS to ON
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
